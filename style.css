@@ -175,4 +175,8 @@ footer.an-underground {
   border-bottom: 1px solid #666;
   background-color: rgba(255, 255, 255, 0.3);
 }
+a:hover {
+  color: #ccc;
+  letter-spacing: 0.5px;
+}
 
