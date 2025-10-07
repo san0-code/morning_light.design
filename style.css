@@ -180,4 +180,9 @@ a:hover {
   letter-spacing: 0.5px;
 }
 
+.center-link {
+  display: flex;
+  justify-content: center;
+  margin-top: 3em;
+}
 
