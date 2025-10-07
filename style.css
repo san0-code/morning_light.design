@@ -181,20 +181,6 @@ a:hover {
 }
 
 .center-link {
-  text-align: center;
-  margin-top: 3em;
-}
-
-.center-link a {
-  display: inline-block; /* ← これがポイント！ */
-  font-family: '游明朝', serif;
-  font-size: 1.2em;
-  color: #444;
-  text-decoration: none;
-  border-bottom: 1px dotted #aaa;
-}
-
-.center-link {
   display: flex;
   justify-content: center;
   margin-top: 3em;
